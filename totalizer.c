@@ -4,6 +4,7 @@
 #include <windows.h>
 #include<locale.h>
 #include<conio.h>
+#include <limits.h>
 #include"add_sum.h"
 
 int main(){
